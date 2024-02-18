@@ -1,0 +1,9 @@
+python
+it is high level programming lang and interpreted & dynamic typed programming language
+dynamic means in pyhton it's not need to specify its type it automatically assigns at runtime
+ADDing two num
+first num it should store in a container
+means example take A= 2 here A is container
+now A will be stored then for next number take B as container 
+booleans means condition i.e true or false statement 
+float means decimals i.e 1.00,2.00 these are virables.
